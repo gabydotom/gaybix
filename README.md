@@ -1,6 +1,6 @@
 # gaybix
 # colégio E.C.M. Afonso Camargo
-* Meu nome é Gabriela, ou aluna
+* Meu nome é Gabriela, sou aluna
 * Etudo no colegio colegio Civico Militar Afonso Camargo na cidade de Loanda Parná há cinco anos, gosto muito de estudar aqui.
 * pretendo cursa moda ou artes cenicas
 
